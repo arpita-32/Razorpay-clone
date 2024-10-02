@@ -1,4 +1,4 @@
-Razorpay Website Clone
+# Razorpay Website Clone
 A clone of the Razorpay website, built using HTML and Tailwind CSS
 Features
 Responsive design for desktop, tablet, and mobile devices
